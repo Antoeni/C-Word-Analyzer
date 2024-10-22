@@ -1,3 +1,0 @@
-C:/Users/nguye/CLionProjects/Popular_words/cmake-build-debug/CMakeFiles/Popular_words.dir
-C:/Users/nguye/CLionProjects/Popular_words/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nguye/CLionProjects/Popular_words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
